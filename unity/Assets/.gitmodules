@@ -1,0 +1,3 @@
+[submodule "Assets/uxt"]
+	path = Assets/uxt
+	url = https://github.com/lastmartianlaboratory/UXT.git

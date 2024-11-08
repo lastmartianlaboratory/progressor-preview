@@ -1,0 +1,13 @@
+.utmp/
+Builds/
+Library/
+Logs/
+obj/
+Temp/
+UserSettings/
+
+*.csproj
+*.sln
+
+Assets/LocalDev/
+Assets/LocalDev.meta

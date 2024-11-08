@@ -1,0 +1,3 @@
+// The reference for `csc.rsp`
+
+PROGRESSOR_DEVELOPMENT   // Development-only features enabled
